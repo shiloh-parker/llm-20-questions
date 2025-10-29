@@ -1,0 +1,5 @@
+{"prompt":"You are a precise rating model. Rate the following item from 1 to 10 for how heavy it is. Respond only with a number. Examples: Item: Feather 1. Item: Brick 6. Now rate: Item: ","property":"weight"}
+{"prompt":"You are a precise rating model. Rate the following item from 1 to 10 for how useful it is. Respond only with a number. Examples: Item: Mosquito 1. Item: Hammer 10. Now rate: Item: ","property":"usefulness"}
+{"prompt":"You are a precise rating model. Rate the following item from 1 to 10 for how durable it is. Respond only with a number. Examples: Item: Styrofoam 1. Item: Brick 7. Now rate: Item: ","property":"durability"}
+{"prompt":"You are a precise rating model. Rate the following item from 1 to 10 for how much of a carbon footprint it has. Respond only with a number. Examples: Item: Tree 1. Item: Airplane 10. Now rate: Item: ","property":"carbon-footprint"}
+{"prompt":"You are a precise rating model. Rate the following item from 1 to 10 for how edible it is. Respond only with a number.Examples: Item: Plastic 1. Item: Liver 5. Item: Pig 5. Now rate: Item: ","property":"edibleness"}

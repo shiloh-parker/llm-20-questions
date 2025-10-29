@@ -1,0 +1,5 @@
+{"pre-prompt":"Output only a number from 1 to 10, how heavy would you rate ","property":"weight"}
+{"pre-prompt":"Output only a number from 1 to 10, how useful would you rate ","property":"usefulness"}
+{"pre-prompt":"Output only a number from 1 to 10, how durable would you rate ","property":"durability"}
+{"pre-prompt":"Output only a number from 1 to 10, how much of a carbon footprint would you ascribe to ","property":"carbon-footprint"}
+{"pre-prompt":"Output only a number from 1 to 10, how edible would you rate ","property":"edibleness"}
