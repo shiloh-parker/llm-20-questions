@@ -1,0 +1,230 @@
+{
+    accessibility:  Is the item easily accessible to people with disabilities?
+    accessibility_global:  Is the item accessible globally?
+    accuracy:  Is the item known for its high level of precision?
+    accurate:  Is the item known for its precision and correctness?
+    activity level:  Is the item associated with high physical activity?
+    aggressiveness:  Is the item known for its aggressive behavior or characteristics?
+    agility:  Is the item known for its agility?
+    amount of shedding:  Does the item shed a significant amount of hair or fur?
+    annual_precipitation:  Is the annual precipitation above 1000mm?
+    appeal:  Is the item considered visually appealing?
+    aquatic adaptation:  Is the item adapted for living in water?
+    aroma:  Is the item fragrant?
+    artificiality:  Is the item artificially created?
+    attack:  Is it capable of attacking?
+    audience age appeal:  Is the content suitable for a general audience?
+    beautiful:  Is it considered beautiful?
+    beauty:  Is the item considered beautiful?
+    big:  Is it big?
+    biodiversity:  Is the item rich in biodiversity?
+    body_size:  Is the object larger than a basketball?
+    breakability:  Is the item breakable?
+    brightness:  Is the item bright?
+    camouflage:  Is the item designed to blend in with its surroundings?
+    capacity:  Can the item hold a significant amount of content?
+    carbon-footprint:  Is the item's carbon footprint considered low?
+    cardiovascular benefit:  Is the item known to improve heart health?
+    career endurance:  Is the item in question related to a profession or job that typically requires
+    championship contribution:  Did the entity contribute to a championship?
+    cleavage / fracture:  Does the item exhibit cleavage or fracture?
+    climate:  Is the climate typically hot and humid?
+    climbing ability:  Can it climb?
+    color:  Is the item primarily red in color?
+    color vibrancy:  Is the item's color vibrant?
+    colorfulness:  Is the item predominantly colorful?
+    combat_strength:  Is the item primarily used for combat?
+    comfort:  Is the item comfortable to use?
+    comforting:  Is the item typically associated with providing comfort or a sense of ease?
+    commonness:  Is the item commonly found in households?
+    company age:  Is the company older than 50 years?
+    company size:  Is the company large (with more than 500 employees)?
+    complexity:  Is the item complex?
+    components:  Is the item a component of a larger system or device?
+    composition:  Is the item made of multiple materials combined together?
+    conductivity:  Is the item electrically conductive?
+    coolness:  Is it considered cool?
+    cost:  Is the item expensive?
+    cost of living:  Is the cost of living high in this location?
+    cost-value:  Is the item considered to have a high cost relative to its value?
+    cost_of_living:  Is the cost of living high in this location?
+    creative:  Is the item considered a form of artistic expression?
+    creativity:  Is the item considered a form of artistic expression?
+    crime rate:  Is the crime rate high in this area?
+    cultural impact:  Does the item have a significant influence on cultural practices or societal norm
+    cuteness:  Is it considered cute?
+    danger:  Is the item potentially harmful or dangerous to handle?
+    danger level:  Is the item considered dangerous?
+    danger-to-humans:  Is the item considered dangerous to humans?
+    danger_to_humans:  Is the item considered dangerous to humans?
+    danger_to_humans_1_10:  Is the item rated 1-10 on the danger_to
+    dangerous:  Is it dangerous?
+    dangerousness:  Is the item potentially harmful to humans or animals?
+    data monetization:  Is the item primarily used for generating revenue through data analysis and monet
+    defense:  Is the item primarily used for defense?
+    density:  Is the item denser than water?
+    depth:  Is the item found at a greater depth than the ocean's surface
+    difficult:  Is it difficult to perform?
+    difficulty:  Is the item considered difficult to accomplish or understand?
+    domesticatability:  Is the item domesticatable?
+    drinks:  Is it a beverage?
+    dryness preference:  Is your preference for dryness high?
+    durability:  Is the item made of a material that is known for its long-last
+    duration:  Is the duration of the item longer than 30 minutes?
+    edibility:  Is the item edible?
+    edibleness:  Is the item edible?
+    education level:  Is the item associated with higher education?
+    elasticity:  Is the item elastic?
+    electrical:  Is the item electrical?
+    elevation:  Is the item located at a higher elevation than sea level?
+    emotional intensity:  Is the item associated with a strong emotional response?
+    endurance:  Does the item require a significant amount of physical or mental stamina to
+    energy:  Is the item a source of energy?
+    energy efficiency:  Is the item energy efficient?
+    equipment_dependence:  Is the item dependent on specialized equipment to function?
+    expensive:  Is it considered expensive?
+    expensiveness:  Is it considered expensive?
+    fast:  Is it fast?
+    flexibility:  Is the item flexible?
+    food:  Is it edible?
+    formation:  Is the item formed through natural processes?
+    fragile:  Is the item fragile?
+    fragility:  Is the item fragile?
+    fragility_scale_1_10:  Is the item fragile on a scale of 1 to 10
+    frequency:  Is the item used daily?
+    frequent:  Is the item used or encountered often?
+    friendliness:  Is the item known for its friendly nature?
+    fuel_efficiency:  Is the item more fuel-efficient than a standard compact car?
+    fun:  Is it something that brings joy or amusement?
+    functional:  Is the item functional?
+    gdp:  Is the item's GDP higher than $1 trillion?
+    geological time scale:  Is the item from the geological time scale?
+    geological_activity:  Is the item associated with geological activity?
+    grain:  Is the item made from a grain?
+    gross:  Is the item considered gross?
+    hairiness:  Is the object hairy?
+    handling:  Is the item capable of being handled by hand?
+    hardness:  Is the item harder than a diamond?
+    healthiness:  Is the item considered healthy?
+    heaviness:  Is the item heavier than a standard brick?
+    heavy:  Is the item heavy?
+    height:  Is the item taller than a standard door?
+    height advantage:  Is the object taller than a standard door?
+    historical significance:  Is the item historically significant?
+    human_habitability:  Is the item suitable for human habitation?
+    humid:  Is the item more humid than a typical room?
+    humidity:  Is the item you're thinking of typically found in a high hum
+    impact:  Does the item have a significant impact on its environment or surroundings
+    impactful:  Is the item considered to have a significant impact on its field or society
+    injury_risk:  Is the item associated with a higher risk of causing injury?
+    innovation:  Is the item considered a groundbreaking innovation in its field?
+    innovation r&d:  Is the item the result of recent research and development efforts?
+    intelligence:  Is the item known for its ability to process information and solve problems?
+    intelligent:  Is the item considered intelligent?
+    intense:  Is the item known for its intense flavor or sensation?
+    intensity:  Is the intensity of the item high?
+    juiciness:  Is the item juicy?
+    large:  Is it larger than a breadbox?
+    layering:  Is the item typically found in multiple layers?
+    learning curve:  Is the learning curve for this item steep or gradual?
+    lethal:  Is it lethal?
+    lifespan:  Is the item's lifespan longer than 10 years
+    long:  Is it longer than a standard ruler?
+    longevity:  Is the item known for having a long lifespan?
+    loudness:  Is the item loud?
+    luster:  Is the item shiny?
+    maintenance:  Is the item in the list requiring regular maintenance?
+    maneuverability:  Is the object capable of being easily moved or repositioned?
+    market capitalization:  Is the company's market capitalization over $100 billion?
+    mass:  Is the object's mass greater than 1 kilogram?
+    material:  Is the item made of metal?
+    mean:  Is the item's mean value above the average of the entire list?
+    measurability:  Is the property measurable?
+    median income:  Is the median income above $50000?
+    mental:  Is the item associated with mental processes or cognition?
+    mental engagement:  Is the item mentally engaging?
+    mobility:  Is the item capable of moving on its own?
+    monetary_value:  Is the item's monetary value above $100
+    nation:  Is the item associated with a specific country?
+    natural_beauty:  Is it a naturally occurring object?
+    naturality:  Is the item naturally occurring?
+    nice:  Is it considered nice?
+    noise:  Is the item loud?
+    or cultural milestone:  Is it a cultural milestone?
+    permeability:  Is the item permeable to water?
+    physical:  Is the item tangible?
+    physical_contact_level:  Does the item require physical contact to function or be used?
+    platform based:  Is the item a platform?
+    playmaking:  Is the item primarily used for playmaking?
+    plentiful:  Is the item in question abundant or scarce?
+    politics:  Is the subject related to government or political systems?
+    popularity:  Is the item widely recognized and appreciated by a large number of people?
+    population:  Is the population of the entity larger than 10 million?
+    population_density:  Is the population density of the area high?
+    portability:  Is the item portable?
+    portability_1_10:  Is the item portable and can be easily carried by one person?
+    portable:  Is the item portable?
+    price:  Is the item more expensive than $100?
+    production cost:  Is the item produced at a low cost?
+    proximity:  Is the item located closer to the center of the room?
+    range:  Is the range of the item greater than 100?
+    rarity:  Is the item considered rare?
+    rarity_1_10:  Is the item considered rare (1) or common (10)?
+    regulation:  Is the item subject to governmental regulation?
+    replicability:  Is the item capable of being replicated or reproduced?
+    required_endurance:  Does the item require high endurance to use or maintain?
+    required_power_strength:  Is the required power strength for this item high?
+    roughness:  Is the surface of the object rough to the touch?
+    safety:  Is the item considered safe for use by the general public?
+    safety risk:  Is the item considered a safety risk?
+    savoriness:  Is the item savory?
+    scale:  Is the item larger than a standard kitchen scale?
+    scoring ability:  Is the item capable of scoring points in a game or competition?
+    screen time:  Is the item primarily used for entertainment purposes?
+    shape:  Is the object round?
+    size:  Is the item larger than a standard basketball?
+    size_scale_1_10:  Is the item larger than size 5 on the scale of 1 to
+    skill complexity:  Is the skill considered to have a high level of complexity?
+    skill_technique_complexity:  Is the skill or technique considered to be of high complexity?
+    smoothness:  Is the object smooth to the touch?
+    sociability:  Is the item sociable?
+    social:  Is it primarily used for social interaction?
+    social_behavior:  Is the subject known for engaging in cooperative activities with others?
+    softness:  Is the item soft to the touch?
+    sound:  Is the item audible?
+    sourness:  Is the item sour?
+    specific region:  Is the item from a specific region?
+    speed:  Is it faster than a cheetah?
+    speed_scale_1_10:  Is the item's speed rated above 7 on a scale of
+    speediness:  Is it faster than a cheetah?
+    state:  Is the item located within a recognized political boundary?
+    stationary:  Is it stationary?
+    story continuity:  Is the item part of a series with a continuous narrative?
+    strength:  Is the item stronger than a standard brick?
+    strength gain potential:  Is the item primarily used for strength training?
+    strong:  Is the item strong?
+    sweetness:  Is the item sweet?
+    team_size:  Is the team size greater than 10?
+    tech_complexity_1_10:  Is the item's tech complexity rated above 5 on a
+    temperature:  Is the item hot?
+    temperature_extremity:  Is the item associated with experiencing extreme temperatures?
+    terrain versatility:  Is the item used on multiple types of terrain?
+    texture:  Is the item rough to the touch?
+    transparency:  Is the object transparent?
+    typical_indoor_use_1_10:  Is the item typically used indoors?
+    urbanization:  Is the item associated with urbanization?
+    usefulness:  Is the item considered useful in everyday life?
+    utility:  Is the item primarily used for practical purposes?
+    value:  Is the item's value considered high?
+    velocity:  Is the object moving at a constant speed?
+    visibility:  Is the item visible to the naked eye?
+    visible:  Is the item visible?
+    volatility:  Is the item highly reactive and prone to rapid changes in its chemical
+    warm:  Is it warm?
+    warmth_climate:  Is the climate warm?
+    weight:  Is the item heavier than a standard textbook?
+    weight_scale_1_10:  Is the item's weight less than 1 on the scale of 
+    width:  Is the width of the object wider than 10 inches?
+    win contribution:  Does the item contribute to a win in its respective category?
+    woodenness:  Is the item made of wood?
+}
